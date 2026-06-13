@@ -1,7 +1,6 @@
 <!DOCTYPE html>
 <html charset="UTF-8">
  <head>
-  <title></title>
   <meta lang="pl-PL">
  </head>
  <body bgcolor='lightblue'>
